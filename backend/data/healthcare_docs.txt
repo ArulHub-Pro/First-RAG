@@ -1,0 +1,14 @@
+Diabetes is a chronic disease where blood sugar levels are too high. 
+Common symptoms include frequent urination, excessive thirst, fatigue, blurred vision, and slow healing wounds.
+
+Malaria is a mosquito-borne disease caused by Plasmodium parasites.
+Symptoms include fever, chills, sweating, headache, nausea, and fatigue.
+
+Hypertension is a condition where blood pressure is consistently too high.
+It increases the risk of heart disease and stroke.
+
+Dengue is a viral infection spread by mosquitoes.
+Symptoms include high fever, severe headache, joint pain, muscle pain, and rash.
+
+Common cold is a viral infection affecting the nose and throat.
+Symptoms include cough, sore throat, sneezing, and mild fever.
